@@ -30,4 +30,8 @@ A soil moisture sensor monitors the soil's water level and starts or stops the w
 ## Procedure
 The project was built using **Java** and **Arduino**.  
 
+## Demo
+https://www.youtube.com/watch?v=EAGWkbteVIQ
+https://www.youtube.com/watch?v=scSwdowvu3I
+
 > **Note:** This project was completed earlier but is being uploaded now for record-keeping.
